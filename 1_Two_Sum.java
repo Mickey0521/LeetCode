@@ -3,7 +3,7 @@ public class Solution {
     public int[] twoSum(int[] nums, int target) {
         
       //using HashMap
-        HashMap hashmap = new HashMap();
+        HashMap<Integer,Integer> hashmap = new HashMap<Integer,Integer>();
      
       //Put the number as "key", and its index as "value"
         for(int i=0; i < nums.length; i++){
