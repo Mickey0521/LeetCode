@@ -1,4 +1,6 @@
-class RomantoInteger {
+package RomantoInteger;
+
+class Solution {
     public int romanToInt(String s) {
         
         // new an integer array to store all the numbers
