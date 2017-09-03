@@ -1,3 +1,5 @@
+package LongestPalindromicSubstring;
+
 class Solution {
     
     // main idea: Expand Around Center
