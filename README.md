@@ -1,5 +1,3 @@
 # LeetCode
-My Solutions to LeetCode Problems
-https://leetcode.com/problemset/all/
-(with comments/explanation)
-http://chienchikao.blogspot.tw/
+My Solutions to [LeetCode](https://leetcode.com/problemset/all/) Problems
+(with comments/explanation) http://chienchikao.blogspot.tw/
