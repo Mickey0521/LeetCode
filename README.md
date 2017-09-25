@@ -5,3 +5,6 @@ can be found in [My Blog](http://chienchikao.blogspot.tw/), and are listed as fo
 - [1. Two Sum](https://github.com/Mickey0521/LeetCode/blob/master/TwoSum.java)
 - [2. Add Two Numbers](https://github.com/Mickey0521/LeetCode/blob/master/AddTwoNumbers.java)
 - [3. Longest Substring Without Repeating Characters](https://github.com/Mickey0521/LeetCode/blob/master/LongestSubstringWithoutRepeatingCharacters.java)
+- [5. Longest Palindromic Substring](https://github.com/Mickey0521/LeetCode/blob/master/LongestPalindromicSubstring.java)
+- [7. Reverse Integer](https://github.com/Mickey0521/LeetCode/blob/master/ReverseInteger.java)
+- [9. Palindrome Number](https://github.com/Mickey0521/LeetCode/blob/master/PalindromeNumber.java)
