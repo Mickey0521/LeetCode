@@ -8,3 +8,9 @@ can be found in [My Blog](http://chienchikao.blogspot.tw/), and are listed as fo
 - [5. Longest Palindromic Substring](https://github.com/Mickey0521/LeetCode/blob/master/LongestPalindromicSubstring.java)
 - [7. Reverse Integer](https://github.com/Mickey0521/LeetCode/blob/master/ReverseInteger.java)
 - [9. Palindrome Number](https://github.com/Mickey0521/LeetCode/blob/master/PalindromeNumber.java)
+
+- [11. Container With Most Water](https://github.com/Mickey0521/LeetCode/blob/master/ContainerWithMostWater.java)
+- [12. Integer to Roman](https://github.com/Mickey0521/LeetCode/blob/master/IntegertoRoman.java)
+- [13. Roman to Integer](https://github.com/Mickey0521/LeetCode/blob/master/RomantoInteger.java)
+- [14. Longest Common Prefix](https://github.com/Mickey0521/LeetCode/blob/master/LongestCommonPrefix.java)
+- [19. Remove Nth Node From End of List](https://github.com/Mickey0521/LeetCode/blob/master/RemoveNthNodeFromEndofList.java)
